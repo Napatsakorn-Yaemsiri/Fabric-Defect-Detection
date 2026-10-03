@@ -1,4 +1,4 @@
-# Fabric-Defect-Detection
+# Fabric-Defect-Detection Yolo11s
   Images: {'train_images': 8946, 'val_images': 2566, 'test_images': 2287}  
   - Train: 65  
   - Test: 18.5  
